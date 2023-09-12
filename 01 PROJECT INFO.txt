@@ -2,7 +2,7 @@
 
 **Database Name: virtualclassroom**
 
-**Developed by Shubiour Shuvo**
+**Developed by Rishu Raj**
 
 **Recommended PHP Version 5.6.3**
 
